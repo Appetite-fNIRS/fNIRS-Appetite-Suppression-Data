@@ -9,8 +9,6 @@ Comparative analysis of prefrontal activation across different appetite-suppress
 This repository contains the raw datasets associated with the study.
 
 - File name: rawdata.zip
-- File format: Excel (.xlsx)
-- File size: 153 MB
 - Version: v1.0.0
 
 ## Data Download
